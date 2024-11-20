@@ -67,12 +67,11 @@ When the model is executed, the output includes:
 - Minimized Total Variance (Risk): Represents the portfolio's risk level.
 
 Example Output:
---- Optimized Budget Allocation and Acquisitions ---
-Social Media: Allocation = $12000.00, Expected Acquisitions = 3360.00
-SEM: Allocation = $15000.00, Expected Acquisitions = 5100.00
-Content: Allocation = $10000.00, Expected Acquisitions = 2100.00
-Email: Allocation = $7000.00, Expected Acquisitions = 980.00
-Display: Allocation = $6000.00, Expected Acquisitions = 1080.00
+- Social Media: Allocation = $12000.00, Expected Acquisitions = 3360.00
+- SEM: Allocation = $15000.00, Expected Acquisitions = 5100.00
+- Content: Allocation = $10000.00, Expected Acquisitions = 2100.00
+- Email: Allocation = $7000.00, Expected Acquisitions = 980.00
+- Display: Allocation = $6000.00, Expected Acquisitions = 1080.00
 
 Total Expected Acquisitions: 13825.00
 Minimum Total Variance (Risk): 205000.000000
